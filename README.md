@@ -55,7 +55,7 @@
 - Interactive **"Share Your Experience"** modal to submit new reviews dynamically to the page.
 
 ### 📍 8. Location & Operating Hours
-- Information cards for Jubilee Hills (Hyderabad) and Vijayawada flagships.
+- Information cards for Visakhapatnam (Kancharapalem, Visakhapatnam - 530008).
 - Valet parking, direct reservations contact, and email enquiries.
 
 ### 👨‍💻 9. Creator Credits & Socials
